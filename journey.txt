@@ -1,3 +1,4 @@
 We are just starting this learning journey!
 purple is a cold colour.
 green is a cold colour.
+REd id a primary colour
